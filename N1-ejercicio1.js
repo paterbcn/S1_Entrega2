@@ -3,3 +3,4 @@
 
 const sumaNombre = ((nom1 , nom2)=> {return nom1+nom2  })("juan","pedro")
 
+console.log(sumaNombre)
